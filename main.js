@@ -1,4 +1,4 @@
-testorderobjectsArr = [
+testOrderObjectsArr = [
   {
     numberOfColors: 1,
     orderNumber: "",
