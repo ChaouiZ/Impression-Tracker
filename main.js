@@ -1,0 +1,32 @@
+testorderobjectsArr = [
+  {
+    numberOfColors: 1,
+    orderNumber: "",
+    orderItem: "",
+    quantity: "",
+    signSize: "",
+    color1: "",
+  },
+  {
+    numberOfColors: 3,
+    orderNumber: "",
+    orderItem: "",
+    quantity: "",
+    signSize: "",
+    color1: "",
+    color2: "",
+    color3: "",
+  },
+  {
+    numberOfColors: 5,
+    orderNumber: "",
+    orderItem: "",
+    quantity: "",
+    signSize: "",
+    color1: "",
+    color2: "",
+    color3: "",
+    color4: "",
+    color5: "",
+  },
+];
